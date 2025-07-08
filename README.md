@@ -1,4 +1,4 @@
-##py-password-inspector
+## py-password-inspector
 
 
 **py-password-inspector** is a Python application that evaluates the strength of user-provided passwords. It checks for length, character variety, and the presence of dictionary words, while also providing suggestions for stronger passwords. The application features a user-friendly graphical interface built with the CustomTkinter library.
